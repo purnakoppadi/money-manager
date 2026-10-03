@@ -1,0 +1,49 @@
+# Frontend
+money-manager-frontend/node_modules/
+money-manager-frontend/dist/
+money-manager-frontend/dist-ssr/
+money-manager-frontend/.env
+money-manager-frontend/.env.local
+money-manager-frontend/.env.production
+money-manager-frontend/.env.*.local
+money-manager-frontend/npm-debug.log*
+money-manager-frontend/yarn-debug.log*
+money-manager-frontend/yarn-error.log*
+money-manager-frontend/pnpm-debug.log*
+
+# Backend
+moneymanager/target/
+moneymanager/build/
+moneymanager/.env
+moneymanager/.env.local
+moneymanager/*.log
+moneymanager/.mvn/wrapper/maven-wrapper.jar
+
+# IDE & Editor
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.classpath
+.project
+.settings
+.factorypath
+.springBeans
+.sts4-cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# General Logs
+*.log
+
+# Secrets
+*.pem
+*.key
